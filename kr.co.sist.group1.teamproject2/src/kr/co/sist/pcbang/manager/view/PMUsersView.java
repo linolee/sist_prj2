@@ -23,7 +23,7 @@ public class PMUsersView extends JFrame {
 	
 	public PMUsersView() {
 		
-		System.out.println("브렌치 연fkffkk습");
+		System.out.println("브렌치 연fkffk습");
 		
 		jlSearch = new JLabel("회원조회");
 		jlId = new JLabel("아이디");
