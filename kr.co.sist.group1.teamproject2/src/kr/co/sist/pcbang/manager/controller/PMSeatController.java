@@ -41,7 +41,6 @@ public class PMSeatController extends WindowAdapter implements Runnable, ActionL
 	
 	
 	
-	@Override
 	public void actionPerformed(ActionEvent e) {
 		if (e.getSource() == pmsv.getBtnSet()) {
 			openSeatSet();
@@ -65,8 +64,6 @@ public class PMSeatController extends WindowAdapter implements Runnable, ActionL
 	}
 	
 	
-	
-	@Override
 	public void run() {
 		
 	}
