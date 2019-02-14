@@ -55,7 +55,7 @@ public class PMUsersView extends JFrame {
 		jtMember.getColumnModel().getColumn(7).setPreferredWidth(210);
 		jtMember.getColumnModel().getColumn(8).setPreferredWidth(10);
 		jtMember.getColumnModel().getColumn(9).setPreferredWidth(10);
-		jtMember.getColumnModel().getColumn(10).setPreferredWidth(110);
+		jtMember.getColumnModel().getColumn(10).setPreferredWidth(100);
 //		
 //		jtMember.setRowHeight(110);
 		
