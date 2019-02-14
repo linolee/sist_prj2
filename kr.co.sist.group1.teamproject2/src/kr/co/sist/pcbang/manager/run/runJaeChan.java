@@ -4,7 +4,7 @@ public class runJaeChan {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("噌形");//しししぉ
+		System.out.println("噌形");//しししぉし
 	}
 
 }
